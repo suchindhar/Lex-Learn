@@ -1,5 +1,5 @@
 UNIT 1 – HISTORICAL BACKGROUND OF THE INDIAN CONSTITUTION
-Part 1 – Introduction, East India Company Rule, Regulating Act 1773
+
 This unit explains how the modern constitutional system of India gradually developed through British rule and legislative reforms, ultimately leading to the adoption of the Constitution of India. The Indian Constitution did not emerge suddenly in 1950. It evolved through a long historical process shaped by colonial governance, administrative experiments, political demands, and constitutional developments. Each Act passed by the British Parliament introduced new administrative mechanisms, legislative institutions, and governance principles. These gradually transformed India from a trading colony into a constitutional democracy. Therefore, understanding the historical background is essential to understand why the Constitution contains features such as federalism, parliamentary government, judicial review, and fundamental rights.
 ________________________________________
 Introduction to Constitutional Development in India
@@ -36,7 +36,7 @@ Significance:
 This case exposed defects in the Regulating Act and showed the need for clearer distribution of powers.
 
 
-Part 2 – Pitt’s India Act 1784 and Charter Act 1813
+
 ________________________________________
 Pitt’s India Act, 1784
 The Regulating Act of 1773 introduced parliamentary control over the East India Company, but it failed to create an effective administrative structure. Conflicts arose between the Governor-General and his Council, and between the Supreme Court and executive authorities. The British Parliament realized that stronger control was required. As a result, Pitt’s India Act of 1784 was enacted to correct the defects of the Regulating Act. This Act introduced a system of dual control and strengthened British government supervision over Indian administration.
@@ -72,7 +72,7 @@ The Charter Act 1813 is important because it:
 •	Recognized Crown sovereignty 
 •	Reduced commercial character of Company rule 
 This Act marked the gradual transition from commercial administration to governmental administration.
-Part 3 – Charter Act 1833 and Charter Act 1853
+
 ________________________________________
 Charter Act, 1833
 The Charter Act of 1833 is considered one of the most important constitutional developments during the East India Company rule. This Act transformed the Company from a commercial organization into a purely administrative body. It centralized legislative power and introduced administrative reforms which later influenced the structure of the Indian Constitution.
@@ -120,7 +120,6 @@ The Charter Act 1853 is important because:
 •	Introduced representation 
 •	Created deliberative legislative procedure 
 This Act marked the transition toward representative legislative institutions.
-Part 4 – Government of India Act 1858 & Indian Councils Act 1861
 ________________________________________
 Government of India Act, 1858
 The Revolt of 1857 marked a turning point in the constitutional history of India. The revolt exposed the weaknesses of the East India Company’s administration. The British Parliament concluded that a commercial organization was not suitable to govern a vast territory like India. As a result, the Government of India Act, 1858 was enacted. This Act abolished the rule of the East India Company and transferred the administration of India directly to the British Crown. Thus, Company rule ended and Crown rule began.
@@ -170,7 +169,7 @@ The Indian Councils Act 1861:
 •	Gave ordinance power 
 •	Began decentralization 
 This Act marked the beginning of representative governance in India.
-Part 5 – Indian Councils Act 1892 & Morley–Minto Reforms 1909
+
 ________________________________________
 Indian Councils Act, 1892
 The Indian Councils Act 1861 introduced Indian participation, but it was very limited. Indians were only nominated and had no real legislative power. As political awareness increased and the Indian National Congress began demanding reforms, the British government introduced further changes through the Indian Councils Act 1892. This Act slightly expanded legislative councils and increased Indian participation, though still in a limited manner.
@@ -216,7 +215,6 @@ The Morley–Minto Reforms 1909:
 •	Introduced separate electorates 
 •	Increased legislative participation 
 These reforms marked an important step toward representative government but also introduced communal politics.
-Part 6 – Montagu–Chelmsford Reforms 1919 (Government of India Act 1919) & Dyarchy
 ________________________________________
 Background of Government of India Act, 1919
 After the Morley–Minto Reforms of 1909, Indian political leaders demanded further constitutional reforms. The First World War also influenced British policy. The British government promised gradual development of self-governing institutions in India. In 1917, the Secretary of State for India, Edwin Montagu, announced that the objective of British policy was to introduce responsible government in India. Based on this declaration, the Montagu–Chelmsford Reforms were introduced, leading to the Government of India Act, 1919.
@@ -277,7 +275,7 @@ The Government of India Act 1919 is important because:
 •	It increased political participation 
 •	It prepared ground for 1935 Act 
 This Act was an important step in constitutional evolution leading to federal system later.
-Part 7 – Government of India Act 1935 (Federal Scheme, Provincial Autonomy, Dyarchy at Centre)
+
 ________________________________________
 Background of Government of India Act, 1935
 The Government of India Act 1919 introduced dyarchy in provinces, but the system failed due to administrative confusion and limited powers given to Indian ministers. Indian leaders demanded responsible government and greater autonomy. The Simon Commission (1927), Round Table Conferences, and constitutional negotiations led to the enactment of the Government of India Act 1935. This Act was the most comprehensive constitutional legislation before independence. Many provisions of the present Constitution are based on this Act.
@@ -348,7 +346,7 @@ Government of India Act 1935 introduced:
 •	Responsible government in provinces 
 •	Emergency provisions 
 This Act became the backbone of the Constitution.
-Part 8 – Federal Court (1937) & Indian Independence Act 1947
+
 ________________________________________
 Federal Court of India (1937)
 The Government of India Act 1935 provided for the establishment of a Federal Court. Accordingly, the Federal Court of India was established in 1937. This was the first constitutional court in India. Before this, judicial appeals from India went directly to the Judicial Committee of the Privy Council in England. The Federal Court created a domestic constitutional adjudication system.
@@ -403,7 +401,6 @@ Indian Independence Act 1947:
 •	Prepared ground for Constitution 
 This Act marks transition from colonial rule to independent constitutional governance.
 
-Part 9 – Constituent Assembly of India (Formation, Composition, Committees, Drafting Committee)
 ________________________________________
 Formation of Constituent Assembly
 After the Indian Independence Act 1947, the most important task before Indian leaders was to frame a Constitution for independent India. The idea of a Constituent Assembly was first proposed by M.N. Roy in 1934. Later, the Indian National Congress demanded a constitution framed by Indians themselves. The British government accepted this demand through the Cabinet Mission Plan of 1946. Accordingly, the Constituent Assembly was formed to draft the Constitution.
@@ -456,7 +453,6 @@ Importance of Constituent Assembly
 The Constituent Assembly played a historic role. It framed a Constitution suited to Indian conditions. It adopted democratic principles and federal structure. It ensured protection of fundamental rights. It established independent judiciary.
 The Assembly also ensured representation of different communities. Members debated issues openly. The Constitution reflected collective wisdom.
 The Constituent Assembly finally adopted the Constitution on 26 November 1949. It came into force on 26 January 1950, creating the Republic of India under the Constitution of India.
-Part 9 – Objective Resolution, Making of Constitution, Adoption, Enforcement
 ________________________________________
 Objective Resolution
 The Objective Resolution played a crucial role in framing the Constitution. It was moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946. This resolution laid down the philosophy and guiding principles of the Constitution. It declared that India would become an independent sovereign republic. It also emphasized justice, equality, liberty, and fundamental rights.
@@ -507,7 +503,7 @@ Making of Constitution → Drafting process
 Adoption → Final approval
 Enforcement → Constitution came into force
 These stages completed constitutional development.
-Part 10 – Sources of Indian Constitution, Borrowed Features, Nature of Constitution, Transition to Republic
+
 ________________________________________
 Sources of the Indian Constitution
 The framers of the Constitution of India did not create the Constitution in isolation. They examined constitutions of various countries and adopted features suitable for Indian conditions. The Indian Constitution is therefore a combination of many constitutional traditions. However, borrowed features were modified to suit Indian society and governance.
