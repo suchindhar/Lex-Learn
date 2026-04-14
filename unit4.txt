@@ -1,0 +1,1178 @@
+UNIT 4 – FUNDAMENTAL RIGHTS
+Fundamental Rights are one of the most important parts of the Constitution of India. They are contained in Part III (Articles 12–35). These rights are essential for development of individual personality and for maintaining democratic system. Fundamental Rights protect citizens against arbitrary actions of the state. They ensure liberty, equality, and dignity.
+Fundamental Rights are called “fundamental” because they are basic rights necessary for human development. They are guaranteed by the Constitution. The government cannot violate these rights. If rights are violated, individuals can approach courts for protection. Thus, Fundamental Rights are enforceable.
+The framers of the Constitution included Fundamental Rights to protect individual freedom. During British rule, many freedoms were restricted. Therefore, the Constitution guaranteed these rights to prevent misuse of power. These rights ensure limited government and rule of law.
+________________________________________
+Meaning of Fundamental Rights
+Fundamental Rights are basic human freedoms guaranteed by the Constitution. They protect individuals from state interference. These rights include equality, freedom, protection against exploitation, religious freedom, cultural rights, and constitutional remedies.
+Fundamental Rights are not absolute. The Constitution allows reasonable restrictions. This ensures balance between individual liberty and public interest. Thus, Fundamental Rights promote democratic governance.
+These rights are enforceable in courts. If government violates these rights, individuals can approach High Court or Supreme Court. Courts can strike down laws violating Fundamental Rights.
+________________________________________
+Example
+If government restricts freedom of speech without valid reason, a person can challenge the law in court. Court may declare law invalid.
+________________________________________
+Illustration
+State violates right → person approaches court → court protects right
+This shows enforceability.
+________________________________________
+Articles Covered under Fundamental Rights
+Fundamental Rights are contained in Articles 12 to 35. These Articles are grouped into six categories:
+•	Right to Equality (Articles 14–18) 
+•	Right to Freedom (Articles 19–22) 
+•	Right against Exploitation (Articles 23–24) 
+•	Right to Freedom of Religion (Articles 25–28) 
+•	Cultural and Educational Rights (Articles 29–30) 
+•	Right to Constitutional Remedies (Article 32) 
+These categories cover civil, political, and individual liberties.
+________________________________________
+Nature of Fundamental Rights
+Fundamental Rights have the following features:
+•	Guaranteed by Constitution 
+•	Enforceable in courts 
+•	Binding on state 
+•	Not absolute 
+•	Subject to reasonable restrictions 
+These features distinguish Fundamental Rights from ordinary rights. Ordinary rights are created by laws. Fundamental Rights are protected by Constitution.
+Fundamental Rights also act as limitation on state power. Government cannot pass laws violating these rights. If such laws are passed, courts can strike them down.
+________________________________________
+Importance of Fundamental Rights
+Fundamental Rights are important because they:
+•	Protect individual liberty 
+•	Promote equality 
+•	Prevent misuse of power 
+•	Maintain rule of law 
+•	Strengthen democracy 
+•	Protect minorities 
+Fundamental Rights also promote human dignity. They ensure freedom of expression and belief. They allow individuals to develop personality.
+These rights also act as safeguard against authoritarian government. They limit state authority. They ensure accountability.
+________________________________________
+Example
+Freedom of speech allows citizens to criticize government. This strengthens democracy.
+________________________________________
+Conceptual Understanding
+Fundamental Rights:
+•	Basic rights 
+•	Enforceable 
+•	Protect individuals 
+•	Limit government 
+•	Promote democracy 
+Thus, Fundamental Rights form backbone of democratic Constitution.
+PART 2
+UNIT 4 – FUNDAMENTAL RIGHTS
+Fundamental Rights in Part III of the Constitution of India are enforceable mainly against the State. Therefore, it is important to understand what the term “State” means. Article 12 defines the word “State” for the purpose of Fundamental Rights. This definition is wider than ordinary meaning. It includes not only government but also authorities performing public functions.
+Article 12 states that unless the context otherwise requires, the term “State” includes:
+•	Government and Parliament of India 
+•	Government and Legislature of States 
+•	Local authorities 
+•	Other authorities within territory of India or under control of Government of India 
+Thus, Article 12 gives an inclusive definition. It expands meaning of State.
+________________________________________
+Government and Parliament of India
+The term “State” includes central government and Parliament. This means actions of central government must comply with Fundamental Rights. Any law passed by Parliament violating Fundamental Rights can be struck down.
+This ensures that central government does not misuse power. All executive actions of Union government are subject to Fundamental Rights.
+________________________________________
+Example
+If Parliament passes a law violating freedom of speech, courts can declare it unconstitutional.
+________________________________________
+Government and Legislature of States
+Article 12 also includes state governments and state legislatures. This means state governments must respect Fundamental Rights. Laws passed by state legislatures must comply with Constitution.
+State authorities cannot violate Fundamental Rights. Courts can review state laws.
+________________________________________
+Example
+If state government restricts equality unlawfully, the law may be struck down.
+________________________________________
+Local Authorities
+Article 12 includes local authorities. Local authorities are bodies created for local administration. These include:
+•	Municipalities 
+•	Panchayats 
+•	District boards 
+•	Municipal corporations 
+These authorities perform public functions. Therefore, they must follow Fundamental Rights. Actions of local authorities can be challenged.
+________________________________________
+Example
+If municipality discriminates against citizens, affected persons can approach court.
+________________________________________
+Other Authorities
+The term “other authorities” makes Article 12 very wide. It includes bodies created by statute or performing public functions. These authorities may include corporations, boards, or agencies controlled by government.
+Courts have interpreted “other authorities” broadly. If a body is controlled by government, funded by government, or performs public duty, it may be treated as State.
+This ensures that government cannot escape liability by creating separate bodies.
+________________________________________
+Illustration
+Government → creates corporation → corporation performs public function
+Corporation treated as State
+________________________________________
+Importance of Article 12
+Article 12:
+•	Defines State 
+•	Expands scope of Fundamental Rights 
+•	Includes government bodies 
+•	Includes public authorities 
+•	Ensures accountability 
+Fundamental Rights are enforceable against State. Therefore, defining State is essential.
+________________________________________
+Conceptual Understanding
+State includes:
+•	Central government 
+•	State governments 
+•	Local authorities 
+•	Other authorities 
+Thus, Article 12 ensures wide application of Fundamental Rights.
+PART 3
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 13 of the Constitution of India is very important in the chapter of Fundamental Rights. It provides that any law inconsistent with Fundamental Rights shall be void. This Article establishes the principle of judicial review. It ensures that laws violating Fundamental Rights can be struck down by courts.
+Article 13 applies to both pre-constitutional laws and post-constitutional laws. It ensures supremacy of the Constitution. Parliament and state legislatures cannot make laws violating Fundamental Rights.
+Article 13 contains four clauses:
+•	Article 13(1) – Pre-constitutional laws 
+•	Article 13(2) – Post-constitutional laws 
+•	Article 13(3) – Meaning of law 
+•	Article 13(4) – Constitutional amendments 
+________________________________________
+Article 13(1) – Pre-Constitutional Laws
+Article 13(1) provides that laws in force before commencement of the Constitution shall be void to the extent of inconsistency with Fundamental Rights. This means old laws inconsistent with Fundamental Rights become invalid.
+However, such laws are not completely void. They become inoperative only to extent of inconsistency. This leads to doctrine of eclipse.
+________________________________________
+Example
+A law passed before 1950 restricting freedom becomes invalid after Constitution.
+________________________________________
+Article 13(2) – Post-Constitutional Laws
+Article 13(2) states that the State shall not make any law violating Fundamental Rights. If such law is made, it shall be void. This ensures that legislature cannot pass unconstitutional laws.
+This clause strengthens judicial review. Courts can strike down laws violating rights.
+________________________________________
+Illustration
+Law violates Fundamental Right → Court strikes down law
+This is Article 13(2).
+________________________________________
+Article 13(3) – Meaning of Law
+Article 13(3) defines “law” broadly. It includes:
+•	Ordinances 
+•	Orders 
+•	Rules 
+•	Regulations 
+•	Notifications 
+•	Customs 
+This wide definition ensures all forms of law are subject to Fundamental Rights.
+________________________________________
+Judicial Review
+Judicial review means power of courts to examine validity of laws. If a law violates Fundamental Rights, courts declare it void. Article 13 is basis of judicial review.
+Judicial review ensures constitutional supremacy. Legislature cannot override Fundamental Rights. Courts act as guardian of Constitution.
+________________________________________
+Example
+If law restricts liberty arbitrarily, court may strike it down.
+________________________________________
+Doctrine of Severability
+Doctrine of severability means that only the unconstitutional part of law becomes void, not the entire law. If valid and invalid parts can be separated, valid part remains.
+This doctrine ensures that entire law is not struck down unnecessarily. Only offending portion is removed.
+________________________________________
+Example
+If one section of law violates rights, only that section is invalid. Rest of law continues.
+________________________________________
+Illustration
+Law = valid part + invalid part
+Remove invalid part → valid part remains
+This is severability.
+________________________________________
+Doctrine of Eclipse
+Doctrine of eclipse applies to pre-constitutional laws. Such laws inconsistent with Fundamental Rights are not completely void. They become dormant. If inconsistency is removed, law becomes valid again.
+The law is overshadowed by Fundamental Rights. It is not dead. It may revive later.
+________________________________________
+Example
+Old law inconsistent with rights becomes inactive. If rights amended, law may revive.
+________________________________________
+Conceptual Importance
+Article 13:
+•	Judicial review 
+•	Invalidates unconstitutional laws 
+Doctrine of Severability:
+•	Only invalid part void 
+Doctrine of Eclipse:
+•	Pre-constitutional law dormant 
+These principles protect Fundamental Rights.
+PART 4
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 14 of the Constitution of India guarantees the Right to Equality. It provides that the State shall not deny to any person equality before the law or equal protection of the laws within the territory of India. This Article ensures fairness and non-arbitrary governance. It is one of the most important provisions in Fundamental Rights.
+Article 14 applies to all persons, not only citizens. This means both citizens and non-citizens are entitled to equality before law. The Article ensures that the State treats individuals equally and does not discriminate arbitrarily.
+Article 14 contains two important expressions:
+•	Equality before law 
+•	Equal protection of laws 
+Though similar, they have different meanings.
+________________________________________
+Equality Before Law
+Equality before law is a negative concept. It means absence of special privileges. All persons are equal before law. No person is above law. Everyone is subject to ordinary law of the land.
+This concept is derived from British rule of law. It ensures that government officials and citizens are treated equally. No special courts or privileges exist.
+Equality before law ensures legal equality. It prevents arbitrary action by government. It promotes rule of law.
+________________________________________
+Example
+A government officer committing crime is punished like any other person. This reflects equality before law.
+________________________________________
+Illustration
+No special privilege → all equal → same law applies
+This is equality before law.
+________________________________________
+Equal Protection of Laws
+Equal protection of laws is a positive concept. It means equal treatment in similar circumstances. Persons similarly situated should be treated alike. This concept is derived from American Constitution.
+Equal protection does not mean identical treatment. It allows reasonable classification. Different groups may be treated differently if classification is reasonable.
+This ensures fairness. Law may treat different classes differently if justified.
+________________________________________
+Example
+Different tax rates for different income groups are valid. This is reasonable classification.
+________________________________________
+Illustration
+Similar persons → same treatment
+Different persons → different treatment allowed
+This is equal protection.
+________________________________________
+Difference Between Two Concepts
+Equality before law:
+•	Negative concept 
+•	No special privileges 
+•	Derived from UK 
+Equal protection of laws:
+•	Positive concept 
+•	Reasonable classification allowed 
+•	Derived from USA 
+Both together ensure fairness.
+________________________________________
+Scope of Article 14
+Article 14 prohibits arbitrariness. State action must be reasonable. Any arbitrary law violates Article 14. The Article applies to legislative and executive actions.
+Article 14 also ensures fairness in administration. Government decisions must be rational. Discrimination without reason is invalid.
+Thus, Article 14 promotes equality and fairness.
+________________________________________
+Conceptual Importance
+Article 14:
+•	Equality before law 
+•	Equal protection of laws 
+•	Applies to all persons 
+•	Prevents arbitrariness 
+•	Allows reasonable classification 
+This Article forms foundation of Right to Equality.
+PART 5
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 14 of the Constitution of India guarantees equality before law and equal protection of laws. However, equality does not mean that all persons must be treated identically. The State can classify persons into different groups. This is called reasonable classification. Such classification must be valid and not arbitrary.
+The courts developed the doctrine of reasonable classification to determine whether a law violates Article 14. If classification is reasonable, the law is valid. If classification is arbitrary, it violates Article 14.
+________________________________________
+Reasonable Classification
+Reasonable classification means grouping persons based on intelligible differences. The State may treat different groups differently if there is a valid basis. However, classification must not be arbitrary.
+The Supreme Court laid down two conditions for valid classification:
+•	There must be intelligible differentia 
+•	Differentia must have rational nexus with object of law 
+Both conditions must be satisfied.
+________________________________________
+Intelligible Differentia
+Intelligible differentia means classification must be based on clear distinction. The law must identify a group based on reasonable criteria. The distinction must not be vague.
+For example, classification based on income level is valid. But classification based on arbitrary criteria is invalid.
+________________________________________
+Example
+Higher tax for rich people is valid classification. Income level is clear distinction.
+________________________________________
+Rational Nexus
+There must be connection between classification and objective of law. Classification should help achieve purpose. If classification has no relation to objective, it is invalid.
+For example, if law gives benefits to farmers, classification must relate to agriculture. Otherwise, it violates Article 14.
+________________________________________
+Illustration
+Classification → clear distinction
+Distinction → connected to objective
+This is reasonable classification.
+________________________________________
+Doctrine of Arbitrariness
+Article 14 also prohibits arbitrariness. State action must be fair and reasonable. Arbitrary laws violate equality. Even without classification, arbitrary action is unconstitutional.
+The Supreme Court expanded Article 14 to include fairness. Any irrational or unreasonable law violates Article 14. This widened scope of equality.
+Thus, Article 14 not only prohibits discrimination but also arbitrary action.
+________________________________________
+Example
+If government selects persons randomly without criteria, it is arbitrary and violates Article 14.
+________________________________________
+Case Law – E.P. Royappa Case
+Facts:
+A government officer challenged his transfer alleging arbitrariness. He argued that transfer violated equality.
+Judgment:
+The Supreme Court held that arbitrariness is antithetical to equality. Arbitrary state action violates Article 14. Equality and arbitrariness cannot coexist.
+Significance:
+This case expanded scope of Article 14. It introduced doctrine of arbitrariness.
+________________________________________
+Case Law – Maneka Gandhi Case
+Facts:
+Passport of Maneka Gandhi was impounded without reasons. She challenged the action.
+Judgment:
+The Supreme Court held that arbitrary procedure violates Article 14. Law must be fair and reasonable.
+Significance:
+Article 14 includes fairness and reasonableness.
+________________________________________
+Conceptual Importance
+Reasonable classification:
+•	Intelligible differentia 
+•	Rational nexus 
+Doctrine of arbitrariness:
+•	No arbitrary state action 
+•	Fairness required 
+These doctrines define scope of Article 14.
+PART 6
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 15 of the Constitution of India prohibits discrimination by the State. It ensures equality and prevents unfair treatment. While Article 14 provides general equality, Article 15 specifically prohibits discrimination on certain grounds. It strengthens equality by identifying prohibited grounds.
+Article 15(1) states that the State shall not discriminate against any citizen on grounds only of:
+•	Religion 
+•	Race 
+•	Caste 
+•	Sex 
+•	Place of birth 
+Thus, discrimination based solely on these grounds is prohibited. Article 15 applies only to citizens, unlike Article 14 which applies to all persons.
+________________________________________
+Scope of Article 15(1)
+Article 15(1) prohibits discrimination by the State. This means government cannot deny benefits or privileges based on the listed grounds. It ensures equal access to opportunities.
+However, the word “only” is important. If classification is based on additional factors, it may be valid. For example, residence plus income may be valid classification.
+Thus, Article 15 prevents discrimination but allows reasonable classification.
+________________________________________
+Example
+Government cannot deny admission in school only because of caste. This violates Article 15.
+________________________________________
+Article 15(2) – Access to Public Places
+Article 15(2) extends protection against discrimination in public places. It prohibits discrimination by both State and private individuals. It ensures access to:
+•	Shops 
+•	Restaurants 
+•	Hotels 
+•	Public wells 
+•	Roads 
+•	Public places 
+This provision prevents social discrimination. It promotes equality in public life.
+________________________________________
+Example
+A restaurant cannot refuse service based on religion. This violates Article 15(2).
+________________________________________
+Exceptions under Article 15
+The Constitution allows certain exceptions. These are not considered discrimination. They aim to promote equality.
+Article 15(3) – Special Provisions for Women and Children
+The State may make special provisions for women and children. This allows protective laws. Such provisions do not violate equality.
+________________________________________
+Example
+Reservation for women in local bodies is valid.
+________________________________________
+Article 15(4) – Backward Classes
+The State may make special provisions for socially and educationally backward classes. This includes Scheduled Castes and Scheduled Tribes. Reservation in education is allowed.
+This provision promotes substantive equality.
+________________________________________
+Article 15(5)
+The State may provide reservation in educational institutions, including private institutions (except minority institutions). This strengthens access to education.
+________________________________________
+Article 15(6)
+This clause allows reservation for economically weaker sections. It provides benefits based on economic criteria.
+________________________________________
+Conceptual Importance
+Article 15:
+•	Prohibits discrimination 
+•	Applies to citizens 
+•	Covers specific grounds 
+Exceptions:
+•	Women and children 
+•	Backward classes 
+•	Educational reservations 
+•	Economically weaker sections 
+Thus, Article 15 ensures equality while allowing protective measures.
+PART 7
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 16 of the Constitution of India guarantees equality of opportunity in matters of public employment. It ensures that every citizen has equal chance to apply for government jobs. Article 16 is an extension of equality principle under Articles 14 and 15. It specifically applies to employment under the State.
+Article 16 applies only to public employment. It covers jobs under government, public authorities, and state-controlled bodies. It does not apply to private employment. This Article prevents discrimination in recruitment and promotion.
+________________________________________
+Article 16(1) – Equality of Opportunity
+Article 16(1) provides that there shall be equality of opportunity for all citizens in matters relating to employment under the State. This means all citizens have equal chance to apply for government jobs. Selection must be based on merit.
+This clause promotes fairness in recruitment. Government cannot favour particular groups arbitrarily. It ensures open competition.
+________________________________________
+Example
+Government must conduct open recruitment. All eligible candidates can apply. This reflects equality of opportunity.
+________________________________________
+Article 16(2) – Prohibition of Discrimination
+Article 16(2) prohibits discrimination in public employment on grounds of:
+•	Religion 
+•	Race 
+•	Caste 
+•	Sex 
+•	Descent 
+•	Place of birth 
+•	Residence 
+Government cannot deny employment based on these grounds. This ensures fairness.
+________________________________________
+Example
+Government cannot refuse job because candidate belongs to particular religion. This violates Article 16.
+________________________________________
+Exceptions under Article 16
+The Constitution allows certain exceptions. These are not considered discrimination.
+________________________________________
+Article 16(3) – Residence Requirement
+Parliament may prescribe residence requirement for certain jobs. This allows preference for local candidates. This is permitted for administrative reasons.
+________________________________________
+Example
+Certain state jobs may require residence in that state.
+________________________________________
+Article 16(4) – Reservation for Backward Classes
+Article 16(4) allows reservation for backward classes not adequately represented in services. This promotes equality. Reservation helps disadvantaged groups.
+This is not considered discrimination. It ensures substantive equality.
+________________________________________
+Example
+Reservation for SC/ST in government jobs is valid.
+________________________________________
+Article 16(4A)
+This clause allows reservation in promotion for SC/ST. It ensures representation in higher posts.
+________________________________________
+Article 16(4B)
+This clause allows carry forward of unfilled reserved vacancies. It ensures reservation benefits.
+________________________________________
+Article 16(5)
+This clause allows religious institutions to appoint persons of particular religion. This protects religious freedom.
+________________________________________
+Conceptual Importance
+Article 16:
+•	Equality in public employment 
+•	No discrimination 
+•	Merit-based selection 
+Exceptions:
+•	Residence requirement 
+•	Reservation for backward classes 
+•	Reservation in promotion 
+•	Religious institutions 
+Thus, Article 16 ensures fair opportunity in public employment.
+PART 8
+UNIT 4 – FUNDAMENTAL RIGHTS
+Articles 17 and 18 of the Constitution of India form part of the Right to Equality. These provisions aim to remove social inequality and establish equal status. Article 17 abolishes untouchability, while Article 18 abolishes titles. Both provisions promote social justice and equality.
+________________________________________
+Article 17 – Abolition of Untouchability
+Article 17 abolishes untouchability and forbids its practice in any form. It declares that enforcement of any disability arising out of untouchability shall be an offence punishable by law. This provision aims to eliminate caste-based discrimination.
+Untouchability refers to social practice where certain groups were treated as inferior. They were denied access to public places, temples, and facilities. Article 17 abolishes such practices. It ensures equality and dignity.
+Article 17 is absolute. No exception is allowed. Untouchability in any form is prohibited. Parliament enacted laws to enforce Article 17.
+________________________________________
+Protection of Civil Rights Act, 1955
+To implement Article 17, Parliament enacted Protection of Civil Rights Act. This law punishes denial of access to public places. It criminalizes untouchability practices.
+Later, the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was also enacted. This provides stronger protection.
+________________________________________
+Example
+Denying entry to temple based on caste is punishable offence.
+________________________________________
+Illustration
+Untouchability → prohibited
+Violation → punishable
+This is Article 17.
+________________________________________
+Article 18 – Abolition of Titles
+Article 18 abolishes titles. Titles create artificial distinctions and inequality. The Constitution prohibits granting of titles by the State. This promotes equality.
+Article 18(1) prohibits the State from conferring titles except military and academic distinctions. Titles like “Raja”, “Nawab”, or “Sir” cannot be granted.
+Article 18(2) prohibits citizens from accepting titles from foreign states. This prevents loyalty conflicts.
+Article 18(3) prohibits foreign nationals holding office under State from accepting foreign titles without President’s consent.
+Article 18(4) prohibits acceptance of foreign gifts without consent.
+________________________________________
+Example
+Government cannot confer hereditary titles. But degrees like “Doctor” are allowed.
+________________________________________
+National Awards
+National awards like Bharat Ratna and Padma awards are allowed. These are not considered titles. They do not create privileges. They are only recognition of merit.
+The Supreme Court clarified that these awards do not violate Article 18.
+________________________________________
+Illustration
+Titles → prohibited
+Awards → permitted
+________________________________________
+Conceptual Importance
+Article 17:
+•	Abolishes untouchability 
+•	Punishable offence 
+•	Promotes equality 
+Article 18:
+•	Abolishes titles 
+•	Allows academic and military distinctions 
+•	National awards permitted 
+These provisions promote social equality.
+PART 9
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 19 of the Constitution of India guarantees certain freedoms to citizens. These freedoms are essential for democratic society. Article 19 protects civil liberties and allows individuals to develop personality. These freedoms are available only to citizens, not to foreigners.
+Originally, Article 19 guaranteed seven freedoms. Later, the right to property was removed. Now Article 19 guarantees six freedoms under Article 19(1).
+These freedoms are:
+•	Freedom of speech and expression 
+•	Freedom of assembly 
+•	Freedom of association 
+•	Freedom of movement 
+•	Freedom of residence 
+•	Freedom of profession 
+These freedoms are not absolute. The State may impose reasonable restrictions. Restrictions must be specified in Constitution.
+________________________________________
+Article 19(1)(a) – Freedom of Speech and Expression
+This freedom allows citizens to express opinions freely. It includes speaking, writing, printing, and communication. It also includes freedom of press.
+Freedom of expression is essential for democracy. Citizens can criticize government. They can express ideas. This promotes accountability.
+________________________________________
+Example
+Writing article criticizing government policy is protected under freedom of speech.
+________________________________________
+Article 19(1)(b) – Freedom of Assembly
+This freedom allows citizens to assemble peacefully without arms. Citizens can hold meetings and protests. Assembly must be peaceful.
+This freedom promotes democratic participation. Citizens can express collective views.
+________________________________________
+Example
+Peaceful protest is protected under freedom of assembly.
+________________________________________
+Article 19(1)(c) – Freedom of Association
+This freedom allows citizens to form associations or unions. Citizens may form political parties, trade unions, or clubs. This promotes collective action.
+Associations help people pursue common interests.
+________________________________________
+Example
+Forming trade union is protected under Article 19(1)(c).
+________________________________________
+Article 19(1)(d) – Freedom of Movement
+This freedom allows citizens to move freely throughout India. Citizens can travel between states. This promotes national unity.
+Restrictions may exist for security or public order.
+________________________________________
+Example
+Citizen travelling from Tamil Nadu to Karnataka exercises freedom of movement.
+________________________________________
+Article 19(1)(e) – Freedom of Residence
+This freedom allows citizens to reside in any part of India. Citizens can settle anywhere. This promotes integration.
+Restrictions may apply to protect tribal areas.
+________________________________________
+Example
+Person moving from Kerala to Delhi to settle is exercising this freedom.
+________________________________________
+Article 19(1)(g) – Freedom of Profession
+This freedom allows citizens to practice any profession or carry business. Citizens may choose occupation freely. This promotes economic liberty.
+However, State may regulate professions.
+________________________________________
+Example
+Opening business is protected under Article 19(1)(g).
+________________________________________
+Conceptual Importance
+Article 19 guarantees:
+•	Speech 
+•	Assembly 
+•	Association 
+•	Movement 
+•	Residence 
+•	Profession 
+These freedoms ensure liberty and democracy.
+PART 10
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 19(1)(a) of the Constitution of India guarantees freedom of speech and expression. This is one of the most important fundamental rights. It allows citizens to express opinions freely. This freedom is essential for democracy. Without free speech, democratic governance cannot function.
+Freedom of speech includes:
+•	Speaking 
+•	Writing 
+•	Printing 
+•	Publishing 
+•	Expression through art 
+•	Communication of ideas 
+This freedom also includes freedom of press. Though not explicitly mentioned, courts have recognized it as part of Article 19(1)(a). Media plays important role in democracy.
+Freedom of speech allows criticism of government. Citizens can express dissent. This ensures accountability. It promotes exchange of ideas.
+________________________________________
+Scope of Freedom of Speech
+Freedom of speech includes:
+•	Freedom of press 
+•	Freedom of commercial speech 
+•	Right to information 
+•	Right to silence 
+•	Freedom of artistic expression 
+Courts have interpreted this freedom broadly. It covers various forms of expression. It protects both spoken and symbolic expression.
+________________________________________
+Example
+Writing newspaper article criticizing government policy is protected.
+________________________________________
+Restrictions under Article 19(2)
+Freedom of speech is not absolute. Article 19(2) allows reasonable restrictions. State may restrict speech in interests of:
+•	Sovereignty and integrity of India 
+•	Security of State 
+•	Friendly relations with foreign states 
+•	Public order 
+•	Decency or morality 
+•	Contempt of court 
+•	Defamation 
+•	Incitement to offence 
+Restrictions must be reasonable. Arbitrary restrictions are invalid.
+________________________________________
+Illustration
+Freedom allowed → but limited by reasonable restrictions
+________________________________________
+Sovereignty and Integrity of India
+Speech threatening unity of country may be restricted. Anti-national speech affecting integrity may be controlled.
+________________________________________
+Public Order
+Speech causing violence or disturbance may be restricted. This ensures peace.
+________________________________________
+Example
+Speech inciting violence can be restricted.
+________________________________________
+Defamation
+False statements harming reputation can be restricted. This protects dignity.
+________________________________________
+Contempt of Court
+Speech interfering with justice may be restricted. This protects judiciary.
+________________________________________
+Case Law – Romesh Thappar Case
+Facts:
+Government banned circulation of journal citing public safety. The petitioner challenged restriction.
+Judgment:
+The Supreme Court held that freedom of speech is essential. Restrictions must fall within Article 19(2). The ban was invalid.
+Significance:
+Freedom of speech is fundamental to democracy.
+________________________________________
+Case Law – Shreya Singhal Case
+Facts:
+Section 66A of IT Act restricted online speech. The law was challenged.
+Judgment:
+The Supreme Court struck down Section 66A. It held that vague restrictions violate freedom of speech.
+Significance:
+Speech cannot be restricted arbitrarily.
+________________________________________
+Conceptual Importance
+Article 19(1)(a):
+•	Freedom of speech 
+•	Freedom of press 
+•	Expression rights 
+Article 19(2):
+•	Reasonable restrictions 
+•	Public order 
+•	Security 
+•	Defamation 
+This Article protects free expression in democracy.
+PART 11
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 19 of the Constitution of India guarantees six freedoms. Part 10 covered freedom of speech. This part explains the remaining freedoms:
+•	Freedom of assembly 
+•	Freedom of association 
+•	Freedom of movement 
+•	Freedom of residence 
+•	Freedom of profession 
+These freedoms are essential for democratic functioning and individual liberty. However, they are subject to reasonable restrictions.
+________________________________________
+Article 19(1)(b) – Freedom of Assembly
+Article 19(1)(b) guarantees freedom to assemble peacefully without arms. Citizens may hold meetings, demonstrations, and protests. This freedom allows collective expression of views.
+Assembly must be peaceful. Violent assembly is not protected. The State may impose restrictions in interest of public order.
+Restrictions under Article 19(3):
+•	Sovereignty and integrity of India 
+•	Public order 
+________________________________________
+Example
+Peaceful protest against government policy is protected.
+________________________________________
+Article 19(1)(c) – Freedom of Association
+This freedom allows citizens to form associations or unions. Citizens may form political parties, trade unions, clubs, or societies. This promotes collective action.
+This freedom also includes right to continue association. However, State may regulate associations.
+Restrictions under Article 19(4):
+•	Sovereignty and integrity 
+•	Public order 
+•	Morality 
+________________________________________
+Example
+Employees forming trade union is protected.
+________________________________________
+Article 19(1)(d) – Freedom of Movement
+This freedom allows citizens to move freely throughout India. Citizens can travel across states. This promotes national integration.
+Restrictions under Article 19(5):
+•	Interests of general public 
+•	Protection of tribal areas 
+The State may restrict entry into sensitive areas.
+________________________________________
+Example
+Movement restricted in border areas for security reasons.
+________________________________________
+Article 19(1)(e) – Freedom of Residence
+Citizens have right to reside anywhere in India. They can settle in any state. This promotes unity.
+Restrictions under Article 19(5):
+•	General public interest 
+•	Protection of tribal areas 
+This ensures protection of vulnerable communities.
+________________________________________
+Example
+Restriction on settlement in tribal areas is valid.
+________________________________________
+Article 19(1)(g) – Freedom of Profession
+Citizens have right to practice any profession or carry business. This promotes economic liberty. Individuals can choose occupation.
+Restrictions under Article 19(6):
+•	Professional qualifications 
+•	State monopoly 
+•	Regulation of trade 
+State may regulate professions.
+________________________________________
+Example
+Medical profession requires qualification. This restriction is valid.
+________________________________________
+Conceptual Importance
+Article 19 freedoms:
+•	Assembly 
+•	Association 
+•	Movement 
+•	Residence 
+•	Profession 
+Restrictions:
+•	Public order 
+•	Morality 
+•	General public interest 
+•	Professional regulation 
+These freedoms ensure liberty and democratic participation.
+PART 12
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 20 of the Constitution of India provides protection to persons accused of crimes. It safeguards individuals against arbitrary punishment. Article 20 applies to both citizens and non-citizens. It protects personal liberty in criminal law.
+Article 20 provides three protections:
+•	Protection against ex post facto law 
+•	Protection against double jeopardy 
+•	Protection against self-incrimination 
+These protections ensure fairness in criminal justice.
+________________________________________
+Article 20(1) – Ex Post Facto Law
+Article 20(1) prohibits conviction under ex post facto law. Ex post facto law means a law that punishes an act which was not an offence at the time it was committed. A person cannot be punished for an act that was not illegal when done.
+This clause also prohibits enhanced punishment retrospectively. If punishment is increased later, it cannot apply to past acts.
+This provision ensures fairness. People must know consequences of actions beforehand.
+________________________________________
+Example
+If an act was legal in 2020 but made illegal in 2022, a person cannot be punished for doing it in 2020.
+________________________________________
+Article 20(2) – Double Jeopardy
+Article 20(2) provides that no person shall be prosecuted and punished for same offence more than once. This is called double jeopardy. Once a person is convicted or acquitted, he cannot be tried again for same offence.
+This protects individuals from repeated prosecution. It ensures finality of judgment.
+However, this protection applies only when:
+•	Same offence 
+•	Same person 
+•	Prosecution and punishment 
+________________________________________
+Example
+If a person is acquitted in theft case, he cannot be tried again for same theft.
+________________________________________
+Article 20(3) – Self-Incrimination
+Article 20(3) provides that no person accused of offence shall be compelled to be witness against himself. This protects against self-incrimination. Accused cannot be forced to confess.
+This ensures fair trial. Confession must be voluntary. Police cannot compel accused to give evidence against himself.
+However, this protection applies only to accused persons.
+________________________________________
+Example
+Police cannot force accused to confess crime.
+________________________________________
+Case Law – Nandini Satpathy Case
+Facts:
+A former Chief Minister was asked to answer questions during investigation. She refused claiming protection against self-incrimination.
+Judgment:
+The Supreme Court held that accused has right to remain silent. Compulsion violates Article 20(3).
+Significance:
+Right against self-incrimination includes right to silence.
+________________________________________
+Conceptual Importance
+Article 20:
+•	No retrospective punishment 
+•	No double punishment 
+•	No self-incrimination 
+These protections ensure fairness in criminal law.
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 21 of the Constitution of India is one of the most important Fundamental Rights. It provides that no person shall be deprived of his life or personal liberty except according to procedure established by law. This Article protects life and liberty of individuals. It applies to both citizens and non-citizens.
+Article 21 originally had narrow interpretation. It meant that life and liberty could be taken away if there was a valid law. Later, the Supreme Court expanded its scope. Now Article 21 includes various rights necessary for dignified life.
+________________________________________
+Meaning of “Life”
+The word “life” does not mean mere animal existence. It means right to live with dignity. Life includes basic necessities such as food, shelter, and health. Courts interpreted life broadly.
+Right to life includes:
+•	Right to livelihood 
+•	Right to health 
+•	Right to clean environment 
+•	Right to shelter 
+•	Right to privacy 
+•	Right to dignity 
+Thus, Article 21 covers many aspects of life.
+________________________________________
+Example
+Right to clean air is part of right to life.
+________________________________________
+Personal Liberty
+Personal liberty means freedom of person. It includes freedom from unlawful detention. It protects physical liberty. No person can be arrested arbitrarily.
+Personal liberty includes:
+•	Freedom of movement 
+•	Freedom from illegal detention 
+•	Right to travel abroad 
+•	Right to privacy 
+This ensures protection from arbitrary state action.
+________________________________________
+Example
+Illegal detention violates personal liberty.
+________________________________________
+Procedure Established by Law
+Article 21 states that deprivation must follow procedure established by law. Initially, courts interpreted this narrowly. Any law passed by legislature was sufficient.
+Later, courts held that procedure must be fair, just, and reasonable. Arbitrary law violates Article 21. This expanded protection.
+________________________________________
+Case Law – Maneka Gandhi Case
+Facts:
+Passport of Maneka Gandhi was impounded without giving reasons. She challenged action.
+Judgment:
+The Supreme Court held that procedure must be fair, just, and reasonable. Article 21 must be read with Articles 14 and 19.
+Significance:
+Article 21 expanded. Arbitrary procedure invalid.
+________________________________________
+Expanded Rights under Article 21
+Courts recognized several rights under Article 21:
+•	Right to privacy 
+•	Right to legal aid 
+•	Right to speedy trial 
+•	Right to clean environment 
+•	Right to education (later Article 21A) 
+•	Right to livelihood 
+This expansion made Article 21 very broad.
+________________________________________
+Illustration
+Life = dignified life
+Liberty = personal freedom
+Procedure = fair and reasonable
+This is Article 21.
+________________________________________
+Conceptual Importance
+Article 21:
+•	Protects life 
+•	Protects liberty 
+•	Fair procedure required 
+•	Applies to all persons 
+This Article is backbone of Fundamental Rights.
+PART 14
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 21A of the Constitution of India guarantees the Right to Education. It provides that the State shall provide free and compulsory education to all children of the age of six to fourteen years. This right was inserted by the 86th Constitutional Amendment Act, 2002. It made education a fundamental right.
+Before this amendment, right to education was part of Directive Principles. Courts later recognized education as part of right to life under Article 21. To give constitutional status, Article 21A was inserted. This ensures that education becomes enforceable right.
+Article 21A imposes duty on the State. Government must provide free education. Children between 6 and 14 years must be educated. This promotes literacy and development.
+________________________________________
+Meaning of Free and Compulsory Education
+Free education means that no child shall pay fees. The State bears cost of education. Children from poor families can access education.
+Compulsory education means it is obligation of the State to ensure children attend school. Government must create schools and facilities. Parents and guardians must send children to school.
+Thus, Article 21A ensures universal elementary education.
+________________________________________
+Example
+Government schools providing free education to children reflect Article 21A.
+________________________________________
+Scope of Article 21A
+Article 21A applies only to children aged 6–14 years. It covers elementary education. The State must provide infrastructure, teachers, and facilities.
+This right applies to all children. No discrimination is allowed. Education must be accessible.
+Article 21A also led to enactment of Right to Education Act 2009. This law implements the right. It provides norms for schools.
+________________________________________
+Relationship with Article 21
+Right to education was earlier derived from Article 21. Courts held education essential for dignified life. Article 21A made it explicit. Thus, Article 21A is extension of Article 21.
+________________________________________
+Illustration
+Right to life → includes education
+Amendment → Article 21A inserted
+________________________________________
+Importance of Right to Education
+Article 21A:
+•	Promotes literacy 
+•	Ensures equality 
+•	Helps social development 
+•	Empowers children 
+•	Reduces child labour 
+Education helps individuals develop personality. It strengthens democracy.
+________________________________________
+Conceptual Importance
+Article 21A:
+•	Free education 
+•	Compulsory education 
+•	Age 6–14 years 
+•	Duty of State 
+This Article ensures educational rights for children.
+PART 15
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 22 of the Constitution of India provides protection against arbitrary arrest and detention. This Article safeguards personal liberty. It ensures that a person arrested is treated fairly. Article 22 applies to both citizens and non-citizens.
+Article 22 deals with two types of detention:
+•	Arrest under ordinary law 
+•	Preventive detention 
+The Constitution provides safeguards in both situations.
+________________________________________
+Protection in Case of Ordinary Arrest
+Article 22(1) provides that a person arrested must be informed of grounds of arrest. This ensures that the person knows why he is arrested. Without information, arrest is illegal.
+Article 22(1) also provides right to consult and be defended by legal practitioner. This ensures fair defence. The arrested person can contact lawyer.
+Article 22(2) provides that arrested person must be produced before magistrate within 24 hours. Detention beyond 24 hours requires judicial approval. This prevents illegal detention.
+________________________________________
+Example
+Police arrest a person → must inform reasons → produce before magistrate within 24 hours.
+________________________________________
+Illustration
+Arrest → inform grounds → lawyer allowed → produce before magistrate
+This is protection.
+________________________________________
+Exceptions to Article 22(1) and (2)
+These protections do not apply to:
+•	Enemy aliens 
+•	Preventive detention cases 
+Thus, preventive detention has separate rules.
+________________________________________
+Preventive Detention
+Preventive detention means detention without trial to prevent future offences. A person may be detained to prevent threat to security. This is precautionary detention.
+Though preventive detention restricts liberty, Constitution permits it. However, safeguards exist.
+Article 22(4) provides that detention beyond three months requires advisory board approval. Advisory board examines detention. It ensures fairness.
+Article 22(5) provides that detained person must be informed grounds. He must be given opportunity to make representation.
+However, authorities may withhold facts in public interest.
+________________________________________
+Example
+Person suspected of threatening security may be detained preventively.
+________________________________________
+Importance of Article 22
+Article 22:
+•	Protects against arbitrary arrest 
+•	Ensures legal representation 
+•	Requires production before magistrate 
+•	Regulates preventive detention 
+This Article balances liberty and security.
+________________________________________
+Conceptual Understanding
+Ordinary arrest:
+•	Inform grounds 
+•	Lawyer allowed 
+•	Magistrate within 24 hours 
+Preventive detention:
+•	Advisory board 
+•	Representation allowed 
+•	Limited safeguards 
+Thus, Article 22 protects personal liberty.
+PART 16
+UNIT 4 – FUNDAMENTAL RIGHTS
+Articles 23 and 24 of the Constitution of India provide the Right Against Exploitation. These provisions protect individuals from forced labour and child labour. They aim to eliminate exploitation and ensure human dignity. These rights apply to both citizens and non-citizens.
+________________________________________
+Article 23 – Prohibition of Traffic in Human Beings and Forced Labour
+Article 23 prohibits:
+•	Traffic in human beings 
+•	Begar 
+•	Forced labour 
+Traffic in human beings refers to selling and buying of persons. It includes human trafficking for labour or prostitution. This practice is prohibited.
+Begar means forced labour without payment. In the past, people were forced to work without wages. Article 23 abolishes such practices.
+Forced labour means compelling a person to work against his will. Even if payment is given, forcing someone to work is prohibited.
+Article 23 is enforceable against both State and private individuals. This is important. Private persons cannot exploit others.
+________________________________________
+Example
+Forcing labourers to work without wages violates Article 23.
+________________________________________
+Illustration
+Forced work → prohibited
+Human trafficking → prohibited
+This is Article 23.
+________________________________________
+Exception under Article 23
+Article 23 allows compulsory service for public purposes. The State may require citizens to perform public service. However, no discrimination is allowed.
+________________________________________
+Example
+Compulsory military service is valid.
+________________________________________
+Article 24 – Prohibition of Child Labour
+Article 24 prohibits employment of children below 14 years in hazardous industries. This protects children from exploitation. Children should focus on education and development.
+Hazardous industries include factories, mines, and dangerous occupations. Employment in such sectors is prohibited.
+Article 24 promotes welfare of children. It complements right to education.
+________________________________________
+Example
+Child working in factory violates Article 24.
+________________________________________
+Importance of Right Against Exploitation
+Articles 23 and 24:
+•	Protect human dignity 
+•	Prevent forced labour 
+•	Prohibit child labour 
+•	Eliminate exploitation 
+These provisions promote social justice.
+________________________________________
+Conceptual Understanding
+Article 23:
+•	No human trafficking 
+•	No forced labour 
+•	Applies to private persons 
+Article 24:
+•	No child labour below 14 
+•	Hazardous industries prohibited 
+These Articles protect individuals from exploitation.
+PART 17
+UNIT 4 – FUNDAMENTAL RIGHTS
+Articles 25 to 28 of the Constitution of India guarantee freedom of religion. India is a secular state. These provisions ensure that every person can follow religion freely. The State does not favour any religion. These rights promote religious harmony.
+The right to freedom of religion includes:
+•	Freedom of conscience 
+•	Freedom to profess religion 
+•	Freedom to practice religion 
+•	Freedom to propagate religion 
+These rights are subject to public order, morality, and health.
+________________________________________
+Article 25 – Freedom of Conscience
+Article 25 guarantees freedom of conscience. Every person has right to believe in any religion. It also allows profess, practice, and propagate religion.
+Profess means declaring faith.
+Practice means performing rituals.
+Propagate means spreading religious beliefs.
+This right applies to all persons, not only citizens. However, State may regulate secular activities.
+________________________________________
+Example
+A person following any religion freely is protected under Article 25.
+________________________________________
+Article 26 – Freedom to Manage Religious Affairs
+Article 26 gives rights to religious denominations. They can:
+•	Establish religious institutions 
+•	Manage religious affairs 
+•	Own property 
+•	Administer property 
+This ensures autonomy of religious groups. However, this right is subject to public order and morality.
+________________________________________
+Example
+Religious institutions managing temples or mosques is protected.
+________________________________________
+Article 27 – Freedom from Religious Taxes
+Article 27 provides that no person shall be compelled to pay taxes for promotion of any religion. The State cannot use tax money to promote religion. This ensures secularism.
+However, taxes for general purposes are allowed.
+________________________________________
+Example
+Government cannot impose tax for promoting particular religion.
+________________________________________
+Article 28 – Religious Instruction in Educational Institutions
+Article 28 deals with religious instruction in educational institutions.
+It provides:
+•	No religious instruction in institutions wholly funded by State 
+•	Religious instruction allowed in institutions administered by trusts 
+•	Students cannot be compelled to attend religious instruction 
+This protects freedom of belief.
+________________________________________
+Example
+Government school cannot compel students to attend religious prayer.
+________________________________________
+Conceptual Importance
+Article 25:
+•	Freedom of conscience 
+•	Practice religion 
+Article 26:
+•	Manage religious affairs 
+Article 27:
+•	No religious taxes 
+Article 28:
+•	No compulsory religious instruction 
+These Articles ensure religious freedom.
+PART 18
+UNIT 4 – FUNDAMENTAL RIGHTS
+Articles 29 and 30 of the Constitution of India provide Cultural and Educational Rights. These rights protect interests of minorities. India is a diverse country with different languages, religions, and cultures. These provisions ensure that minorities can preserve their identity.
+These Articles aim to protect cultural diversity. They also prevent discrimination in educational institutions.
+________________________________________
+Article 29 – Protection of Interests of Minorities
+Article 29(1) provides that any section of citizens having distinct language, script, or culture has right to conserve it. This right is available to both majority and minority groups. Any group with distinct identity can protect culture.
+This provision ensures preservation of cultural heritage. It allows communities to maintain language and traditions.
+________________________________________
+Example
+A linguistic group preserving its language is protected under Article 29.
+________________________________________
+Article 29(2) – Admission in Educational Institutions
+Article 29(2) provides that no citizen shall be denied admission in educational institution maintained by State on grounds of:
+•	Religion 
+•	Race 
+•	Caste 
+•	Language 
+This prevents discrimination in education. It ensures equal access.
+________________________________________
+Example
+A college cannot deny admission based on religion. This violates Article 29(2).
+________________________________________
+Article 30 – Right of Minorities to Establish Educational Institutions
+Article 30 provides that minorities have right to establish and administer educational institutions. Minorities may be based on religion or language. This right ensures educational autonomy.
+Minorities can establish schools and colleges. They can manage administration. Government cannot interfere unnecessarily.
+Article 30 also provides that State shall not discriminate in granting aid to minority institutions.
+________________________________________
+Example
+Religious minority establishing school is protected under Article 30.
+________________________________________
+Difference Between Article 29 and 30
+Article 29:
+•	Protects culture 
+•	Applies to any section 
+Article 30:
+•	Protects minorities 
+•	Right to establish institutions 
+Both protect diversity.
+________________________________________
+Conceptual Importance
+Article 29:
+•	Preserve language 
+•	No discrimination in admission 
+Article 30:
+•	Minority educational institutions 
+•	Administrative autonomy 
+These Articles protect cultural diversity.
+PART 19
+UNIT 4 – FUNDAMENTAL RIGHTS
+Article 32 of the Constitution of India provides the Right to Constitutional Remedies. It is considered the heart and soul of Fundamental Rights. This Article allows individuals to approach the Supreme Court directly for enforcement of Fundamental Rights. Without remedies, rights become meaningless. Therefore, Article 32 ensures protection.
+Article 32 guarantees that if Fundamental Rights are violated, a person can move the Supreme Court. The Court may issue directions, orders, or writs. This makes Fundamental Rights enforceable.
+Dr. B.R. Ambedkar described Article 32 as the most important Article. It protects all other rights.
+________________________________________
+Power of Supreme Court
+Under Article 32, Supreme Court has power to:
+•	Issue writs 
+•	Enforce Fundamental Rights 
+•	Provide remedies 
+This power is guaranteed right. Citizens can directly approach Supreme Court. The Court cannot refuse.
+Article 32 itself is Fundamental Right. Therefore, denial of remedy violates Constitution.
+________________________________________
+Example
+If freedom of speech is violated, person can directly approach Supreme Court.
+________________________________________
+Types of Writs
+The Supreme Court may issue five types of writs:
+•	Habeas Corpus 
+•	Mandamus 
+•	Prohibition 
+•	Certiorari 
+•	Quo Warranto 
+These writs protect Fundamental Rights.
+________________________________________
+Habeas Corpus
+Habeas Corpus means “produce the body”. It is issued when a person is illegally detained. Court orders authority to produce detained person. If detention is illegal, person is released.
+________________________________________
+Example
+Illegal arrest → Court issues Habeas Corpus → person released.
+________________________________________
+Mandamus
+Mandamus means “we command”. Court directs public authority to perform duty. If authority fails to perform legal duty, writ is issued.
+________________________________________
+Example
+Authority refusing to grant license illegally → Mandamus issued.
+________________________________________
+Prohibition
+Prohibition is issued to prevent lower court from exceeding jurisdiction. Higher court orders lower court to stop proceedings.
+________________________________________
+Certiorari
+Certiorari is issued to quash order of lower court. If lower court acts without jurisdiction, order is cancelled.
+________________________________________
+Quo Warranto
+Quo Warranto means “by what authority”. Court questions authority of person holding public office. If appointment invalid, person removed.
+________________________________________
+Example
+Person holding office illegally → Quo Warranto issued.
+________________________________________
+Importance of Article 32
+Article 32:
+•	Enforces Fundamental Rights 
+•	Allows direct access to Supreme Court 
+•	Provides writ remedies 
+•	Protects liberty 
+Thus, Article 32 is cornerstone of Fundamental Rights.
+PART 20
+UNIT 4 – FUNDAMENTAL RIGHTS
+Articles 33 to 35 of the Constitution of India deal with miscellaneous provisions relating to Fundamental Rights. These provisions explain restrictions, modification, and implementation of Fundamental Rights. They complete Part III of the Constitution.
+________________________________________
+Article 33 – Power of Parliament to Modify Fundamental Rights
+Article 33 empowers Parliament to restrict or modify Fundamental Rights for certain forces. These include:
+•	Armed forces 
+•	Police forces 
+•	Intelligence agencies 
+•	Forces maintaining public order 
+The purpose is to ensure discipline. Members of these forces cannot exercise all freedoms freely. Restrictions ensure effective functioning.
+________________________________________
+Example
+Military personnel cannot freely protest. This restriction is valid.
+________________________________________
+Article 34 – Restriction during Martial Law
+Article 34 provides that Fundamental Rights may be restricted in areas where martial law is in force. Martial law refers to military control in disturbed areas. During such situations, certain rights may be restricted.
+This provision protects actions taken during emergency situations. It allows Parliament to indemnify officials.
+________________________________________
+Example
+During martial law, movement may be restricted.
+________________________________________
+Article 35 – Legislation to Give Effect to Fundamental Rights
+Article 35 provides that Parliament has exclusive power to make laws relating to certain Fundamental Rights. These include:
+•	Article 16 (residence requirement) 
+•	Article 32 (writ jurisdiction) 
+•	Article 33 (modification of rights) 
+•	Article 34 (martial law) 
+Only Parliament can legislate on these matters. States cannot pass such laws.
+This ensures uniformity.
+________________________________________
+Importance of Articles 33–35
+These provisions:
+•	Allow modification of rights 
+•	Maintain discipline in forces 
+•	Regulate emergency situations 
+•	Empower Parliament 
+They complete Fundamental Rights framework.
+________________________________________
+Overall Conclusion of Unit 4
+Fundamental Rights form core of the Constitution. They protect liberty, equality, and dignity. These rights limit state power and ensure democratic governance. Courts enforce these rights through judicial review.
+Fundamental Rights include:
+•	Right to Equality 
+•	Right to Freedom 
+•	Right against Exploitation 
+•	Freedom of Religion 
+•	Cultural and Educational Rights 
+•	Constitutional Remedies 
+These rights ensure protection of individuals and promote rule of law.
