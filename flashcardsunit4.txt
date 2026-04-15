@@ -1,0 +1,36 @@
+Fundamental Rights | Basic human freedoms guaranteed by Part III (Articles 12-35) of the Constitution, enforceable against the State and subject to reasonable restrictions.
+Article 12 | Defines "State" for Fundamental Rights to include central and state governments, legislatures, local authorities, and other authorities under government control.
+Article 13 | Provides that laws inconsistent with Fundamental Rights shall be void; establishes judicial review and includes doctrines of severability and eclipse.
+Doctrine of Severability | Only the part of a law that violates Fundamental Rights is void; the valid part remains enforceable if separable.
+Doctrine of Eclipse | Pre-constitutional laws inconsistent with Fundamental Rights become dormant (eclipsed) but can revive if the inconsistency is removed by amendment.
+Article 14 | Guarantees equality before law (negative concept) and equal protection of laws (positive concept, allows reasonable classification) to all persons.
+Reasonable classification | Valid classification under Article 14 requires intelligible differentia and rational nexus with the object sought to be achieved.
+E.P. Royappa case | Supreme Court held that arbitrariness is antithetical to equality; arbitrary state action violates Article 14.
+Article 15 | Prohibits discrimination by State against citizens on grounds of religion, race, caste, sex, or place of birth; allows special provisions for women, children, backward classes, and EWS.
+Article 16 | Guarantees equality of opportunity in public employment; prohibits discrimination; allows reservations for backward classes and EWS.
+Article 17 | Abolishes untouchability and forbids its practice in any form; enforcement is an offence punishable by law.
+Article 18 | Abolishes titles (except military and academic distinctions); prohibits acceptance of foreign titles without President's consent.
+Article 19(1)(a) | Freedom of speech and expression, including freedom of press, right to information, and commercial speech; subject to reasonable restrictions under Article 19(2).
+Article 19(1)(b) to (g) | Freedoms of assembly (peaceful without arms), association, movement throughout India, residence anywhere in India, and profession/occupation/trade.
+Article 20 | Protection against ex post facto laws (retrospective punishment), double jeopardy (no repeated prosecution and punishment), and self-incrimination (no compulsion to be witness against oneself).
+Article 21 | Protection of life and personal liberty; no deprivation except according to procedure established by law; expanded to include dignity, livelihood, privacy, clean environment, etc.
+Maneka Gandhi case | Expanded Article 21: procedure must be fair, just, and reasonable; read Articles 14, 19, and 21 together.
+Article 21A | Right to education for children aged 6 to 14 years; inserted by 86th Amendment Act, 2002; free and compulsory education.
+Article 22 | Protection against arbitrary arrest and detention; includes rights to know grounds, consult lawyer, produce before magistrate within 24 hours; also regulates preventive detention.
+Article 23 | Prohibits traffic in human beings, begar (forced labour without payment), and other forms of forced labour; applies against State and private individuals.
+Article 24 | Prohibits employment of children below 14 years in hazardous industries (factories, mines, etc.).
+Article 25 | Freedom of conscience and right to profess, practice, and propagate religion; subject to public order, morality, health, and other provisions.
+Article 26 | Right of religious denominations to establish and manage religious institutions, own property, and administer it.
+Article 27 | No person shall be compelled to pay taxes for promotion of any particular religion.
+Article 28 | No religious instruction in State-funded educational institutions; no compulsion to attend religious instruction in any institution.
+Article 29 | Protects interests of minorities: right to conserve distinct language, script, or culture; no denial of admission to State-maintained educational institutions on grounds of religion, race, caste, or language.
+Article 30 | Right of religious and linguistic minorities to establish and administer educational institutions; State shall not discriminate in granting aid.
+Article 32 | Right to constitutional remedies; allows direct approach to Supreme Court for enforcement of Fundamental Rights; Supreme Court can issue writs (habeas corpus, mandamus, prohibition, certiorari, quo warranto).
+Habeas Corpus | Writ meaning "produce the body"; issued to release a person illegally detained.
+Mandamus | Writ commanding a public authority to perform its legal duty.
+Prohibition | Writ issued to prevent a lower court or tribunal from exceeding its jurisdiction.
+Certiorari | Writ issued to quash an order of a lower court or tribunal acting without jurisdiction or in violation of principles of natural justice.
+Quo Warranto | Writ challenging the authority of a person holding a public office; asks "by what authority".
+Article 33 | Empowers Parliament to restrict or modify Fundamental Rights for members of armed forces, police, and other forces to ensure discipline.
+Article 34 | Allows restriction of Fundamental Rights in areas where martial law is in force; Parliament may indemnify officials.
+Article 35 | Provides that Parliament has exclusive power to make laws relating to certain Fundamental Rights (e.g., Articles 16(3), 32, 33, 34).
