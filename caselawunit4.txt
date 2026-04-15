@@ -1,0 +1,29 @@
+E.P. Royappa v. State of Tamil Nadu (1974)
+Facts: A government officer challenged his transfer alleging arbitrariness. He argued that the transfer was mala fide and violated equality.
+Judgment: The Supreme Court held that arbitrariness is antithetical to equality. Equality and arbitrariness cannot coexist. Arbitrary state action violates Article 14 even if no classification is involved.
+Significance: This case expanded the scope of Article 14 beyond reasonable classification to include the doctrine of arbitrariness. Any irrational or unreasonable state action is now struck down under Article 14.
+
+Maneka Gandhi v. Union of India (1978)
+Facts: The passport of Maneka Gandhi was impounded by the government without giving any reasons. She challenged the action as violating her right to life and personal liberty under Article 21.
+Judgment: The Supreme Court held that procedure under Article 21 must be fair, just, and reasonable. It cannot be arbitrary. The Court read Article 21 together with Articles 14 and 19, requiring that any law depriving life or liberty must satisfy the principles of equality and reasonableness.
+Significance: This landmark case dramatically expanded the scope of Article 21. It established that "procedure established by law" means fair and reasonable procedure, not just any law. It also linked Article 21 with Articles 14 and 19, creating a holistic protection of personal liberty.
+
+Romesh Thappar v. State of Madras (1950)
+Facts: The government banned the circulation of the journal "Cross Roads" in Madras citing public safety. The petitioner challenged the ban as violating freedom of speech and expression.
+Judgment: The Supreme Court held that freedom of speech is essential for democratic functioning. Restrictions must fall strictly within the grounds mentioned in Article 19(2). The ban on circulation was invalid as public safety was not a listed ground at that time.
+Significance: This case established that freedom of speech cannot be restricted except for the specific reasons enumerated in Article 19(2). It reinforced that the grounds of restriction are exhaustive and narrowly construed.
+
+Shreya Singhal v. Union of India (2015)
+Facts: Section 66A of the Information Technology Act, 2000 made it an offence to send offensive or annoying messages online. The provision was challenged as violating freedom of speech under Article 19(1)(a).
+Judgment: The Supreme Court struck down Section 66A as unconstitutional. The Court held that the provision was vague, overbroad, and had no proximate relationship with public order. It failed the test of reasonable restriction under Article 19(2).
+Significance: This case reaffirmed that freedom of speech online is equally protected. Vague and arbitrary restrictions that chill free speech are invalid. It clarified that only speech that causes incitement to imminent violence can be restricted.
+
+Nandini Satpathy v. P.L. Dani (1978)
+Facts: A former Chief Minister was asked to answer questions during investigation under the CrPC. She refused, claiming protection against self-incrimination under Article 20(3).
+Judgment: The Supreme Court held that Article 20(3) protects an accused from being compelled to be a witness against himself. This includes the right to remain silent. Compulsion includes psychological pressure, not just physical force.
+Significance: This case expanded the interpretation of self-incrimination. It held that the right extends to any stage of investigation and that the accused cannot be compelled to answer questions that would expose him to criminal liability.
+
+Berubari Union Case (1960)
+Facts: The Government of India entered into an agreement with Pakistan to transfer part of the Berubari territory. The question arose whether this transfer could be done by executive action alone or required a constitutional amendment.
+Judgment: The Supreme Court held that cession of Indian territory to a foreign country cannot be done by executive action. Since territory is part of India under Article 1, any cession requires a constitutional amendment under Article 368 of the Constitution.
+Significance: This case clarified the distinction between acquisition and cession of territory. Acquisition of territory can be done by executive action, but cession (transfer of territory) requires a constitutional amendment. It reinforced that the Union of India is indestructible and territorial integrity cannot be altered by ordinary law.
